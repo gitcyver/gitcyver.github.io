@@ -11,11 +11,11 @@ Als Paladin erhältst du folgende Klassenmerkmale.
 
 #### Trefferpunkte
 
-**Hit Dice:** 1d10 pro Stufe als Paladin
+**Trefferwürfel:** 1w10 pro Stufe als Paladin
 
-**Hit Points at 1st Level:** 10 + dein [[Konstitution]]smodifikator
+**Trefferpunkte auf Stufe 1:** 10 + dein [[Konstitution]]smodifikator
 
-**Hit Points at Higher Levels:** 1d10 (oder 6) + dein [[Konstitution]]smodifikator pro Stufe als Paladin über die 1. Stufe hinaus
+**Trefferpunkte auf höheren Stufen:** 1w10 (oder 6) + dein [[Konstitution]]smodifikator pro Stufe als Paladin über die 1. Stufe hinaus
 
 #### Übung
 
