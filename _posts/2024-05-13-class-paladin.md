@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Paladin"
-categories: Klassen
+categories: [Klassen, Paladin]
 ---
 
 # Paladin
