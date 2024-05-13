@@ -1,0 +1,35 @@
+---
+title: Formeln
+date: 2024-05-13 18:00:00 +100
+categories: [Regeln] 
+tags: [Formeln] 
+---
+# Formeln
+
+| Beschreibung            | Formel                                                       |
+| ----------------------- | ------------------------------------------------------------ |
+| Rüstungsklasse (Basis)  | 10 + Rüstung + Geschicklichkeitsmodifikator                  |
+| Rüstungsklasse (Barbar) | 10 + Geschicklichkeitsmodifikator + Konstitutionsmodifikator |
+| Rüstungsklasse (Mönch)  | 10 + Geschicklichkeitsmodifikator + Weisheitsmodifikator     |
+| Initiative              | W20 + Geschicklichkeitsmodifikator                           |
+| Schaden (Regulär)       | W + Stärkemodifikator                                        |
+| Schaden (Finesse)       | W + Geschicklichkeitsmodifikator                             |
+| Angriff (Regulär)       | W20 + Stärkemodifikator + Übungsbonus                        |
+| Angriff (Finesse)       | W20 + Geschicklichkeitsmodifikator + Übungsbonus             |
+| Skill (Geübt)           | Attributsmodifikator + Übungsbonus                           |
+| Skill (Ungeübt)         | Attributsmodifikator                                         |
+| Rettungswurf (Geübt)    | Attributsmodifikator + Übungsbonus                           |
+| Rettungswurf (Ungeübt)  | Attributsmodifikator                                         |
+***
+
+| Klasse        | Zauberrettungswurf-Schwierigkeitsgrad    | Zauberangriffsbonus                  |
+| ------------- | ---------------------------------------- | ------------------------------------ |
+| Barde         | 8 + Charismamodifikator + Übungsbonus    | Charismamodifikator + Übungsbonus    |
+| Kleriker      | 8 + Weisheitsmodifikator + Übungsbonus   | Weisheitsmodifikator + Übungsbonus   |
+| Druide        | 8 + Weisheitsmodifikator + Übungsbonus   | Weisheitsmodifikator + Übungsbonus   |
+| Mönch         | 8 + Weisheitsmodifikator + Übungsbonus   | Weisheitsmodifikator + Übungsbonus   |
+| Paladin       | 8 + Charismamodifikator + Übungsbonus    | Charismamodifikator + Übungsbonus    |
+| Waldläufer    | 8 + Weisheitsmodifikator + Übungsbonus   | Weisheitsmodifikator + Übungsbonus   |
+| Zauberer      | 8 + Charismamodifikator + Übungsbonus    | Charismamodifikator + Übungsbonus    |
+| Hexen-meister | 8 + Charismamodifikator + Übungsbonus    | Charismamodifikator + Übungsbonus    |
+| Magier        | 8 + Intelligenzmodifikator + Übungsbonus | Intelligenzmodifikator + Übungsbonus |
