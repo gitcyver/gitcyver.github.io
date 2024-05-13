@@ -1,6 +1,6 @@
 ---
 title: Formeln
-date: 2024-05-13 18:00:00 +100
+date: 2024-05-13 18:00:00 +200
 categories: [Regeln] 
 tags: [Formeln] 
 ---
