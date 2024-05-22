@@ -5,7 +5,7 @@ categories: [Lunaris Konvergenz]
 
 > Manchmal sind es die Zufälle die den Fortlauf der Geschichte für immer verändern.
 
-Einer dieser Zufälle ereignete sich auf dem Schiff Drachenwoge, welche mit einigen wenigen Passagieren auf dem Weg zur Sturmwrack-Insel war war. Aus unterschiedlichen Gründen, mit unterschiedlichen Zielen, aber einem gemeinsamen Schicksal trafen dort Mariatshi Kerymdur, ein blasser Shadar-Kai Hexenmeister aus dem Reich der Schatten,  ein Waldelf Waldäufer namens Anubi und ein Paladin aus dem Hause Starkherz namens Bräät Starkherz aufeinander.
+Einer dieser Zufälle ereignete sich auf dem Schiff Drachenwoge, welche mit einigen wenigen Passagieren auf dem Weg zur Sturmwrack-Insel war war. Aus unterschiedlichen Gründen, mit unterschiedlichen Zielen, aber einem gemeinsamen Schicksal trafen dort Mariatshi Kerymdur, ein blasser Shadar-Kai Hexenmeister aus dem Reich der Schatte und ein Paladin aus dem Hause Starkherz namens Bräät Starkherz aufeinander.
 
 John, ein Mensch mittleren Alters, in einen langen Mantel gehüllt und häufig mit einer kleinen, goldenen, Taschenuhr in der einen und einem Gehstock in der anderen Hand, ist ebenfalls Passagier auf der Drachenwoge und auf der Suche nach Unterhaltung auf der langen Reise. Er bringt die drei Abenteurer zusammen und mit seiner einnehmenden, vertrauensvollen Art startet er einen Bund, dessen Abenteuer in die Geschichte eingehen wird.
 
