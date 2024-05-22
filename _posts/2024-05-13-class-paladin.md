@@ -1,6 +1,7 @@
 ---
 title: "Paladin"
 categories: [Klassen, Paladin]
+published: false
 ---
 
 # Paladin
