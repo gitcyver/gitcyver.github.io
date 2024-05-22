@@ -1,6 +1,6 @@
 ---
 title: "Kennenlernen auf der Drachenwoge"
-categories: [Lunaris Konvergenz]
+categories: [Prolog]
 ---
 
 > Manchmal sind es die Zufälle die den Fortlauf der Geschichte für immer verändern.
