@@ -98,7 +98,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fd20-dice-logo&psig=AOvVaw1moT2I_dsVhd-328a5KkDQ&ust=1716459969833000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjD9-eFoYYDFQAAAAAdAAAAABAE
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
